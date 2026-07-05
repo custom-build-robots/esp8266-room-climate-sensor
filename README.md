@@ -4,6 +4,8 @@ A WiFi room climate sensor based on the ESP8266 (NodeMCU / Wemos D1 Mini) and
 one or two DHT22 sensors, featuring an SSD1306 OLED display, a live web UI,
 and a JSON REST API.
 
+![ESP8266 room climate sensor with DHT22 sensor and OLED display in 3D-printed enclosures](https://www.byteyourlife.com/wp-content/uploads/2026/07/ESP8266_room_climate_sensor_DHT22_sensor_OLED_display_01-1024x771.jpg)
+
 **Features**
 
 - Automatic detection of one or two connected DHT22 sensors
@@ -25,4 +27,5 @@ that will drive the heating valve actuators (coming in a future project).
 
 **Full build guide** (in German) with photos, wiring, 3D-printed enclosure and
 setup instructions on my blog:
+
 👉 https://www.byteyourlife.com/do-it-yourself/esp8266-raumklima-sensor-mit-dht22-fussbodenheizung-smart-machen/10413
